@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
     channels[2] = new Station(&boombox, 94, "News");
 
     // Note : when the radio quit, the application should quit
-    boombox.connect(&boombox, &Radio::quit, &a, &QCoreApplication::quit,Qt::DirectConnection);
+    boombox.connect(&boombox, &Radio::quit, &a, &QCoreApplication::quit,Qt::QueuedConnection);
     /*
         -> When the radio is to be closed, then the entire application will be closed.
     */
