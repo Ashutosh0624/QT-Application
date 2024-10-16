@@ -1,0 +1,9 @@
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Radio-Station.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Radio-Station_autogen_timestamp_deps.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/Radio-Station/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Radio-Station_autogen.dir
